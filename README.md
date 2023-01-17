@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hallo Everyone👋</h1>
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=D3F72BFF&center=true&vCenter=true&multiline=false&lines=Hello😎;I'm+Name+Made+㋡;I'm+Owner+Of+KthBot!;I'm+From+Indonesia!" alt="Made"> 
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=D3F72BFF&center=true&vCenter=true&multiline=false&lines=Hello😎;My+Name+Lynn+㋡;I'm+Owner+Of+Lynn-Md!;I'm+From+Malaysia!" alt="Made"> 
 </p>
 
 <p align="center">
