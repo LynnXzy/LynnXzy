@@ -15,7 +15,7 @@
   <a href="https://wa.me/60189830350">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thv/">
+  <a href="https://www.instagram.com/botzlynx/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:botzlynx@gmail.com">
@@ -31,12 +31,14 @@
 ❊ Turu
 ❊ Mager
 ❊ Recode Script
+❊ Anime
 ❊ And Other
 
 ❊ ## About
 ❊ Age: 15Th
-❊ Gender: ?
+❊ Muslim
 ❊ Name: Made LynnXzy
+❊ Malaysia
 ```
 
 ---
@@ -44,7 +46,8 @@
 ## ```Whatsapp``` <a href="https://wa.me/60189830350"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60149431385?text=.menu) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60189830350) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD)
+[![GROUP OFFICIAL2](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB) 
 
 ---------
 
