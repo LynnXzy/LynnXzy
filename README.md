@@ -3,5 +3,5 @@
   <p align="center">
 <img src="https://telegra.ph/file/a7e7d0a0ca9495b89e4dd.jpg" alt="Img" width="400" height="400"/>
 
-<p align="center"> <a href="https://LynnXzy.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Official+Github+LynXzy+:v" alt="Lynn-Md" /> </a> </p>
+<p align="center"> <a href="https://LynnXzy.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Official+Github+LynXzy+:vvv" alt="Lynn-Md" /> </a> </p>
 <p align="center">
