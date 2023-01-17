@@ -53,8 +53,3 @@
 
 ---------
 
-
-</details> 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=LynnXzy&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynnXzy&theme=vue">
