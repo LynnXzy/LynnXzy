@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/LynnXzy"><img title="Author" src="https://img.shields.io/badge/Made-Ganz-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LynnXzy"><img title="Author" src="https://img.shields.io/badge/Made-Lynn-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---------
@@ -53,19 +53,6 @@
 
 ---------
 
-## ```Status```
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LynnXzy)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Madexyz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
 
