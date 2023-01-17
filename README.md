@@ -5,3 +5,6 @@
 
 <p align="center"> <a href="https://LynnXzy.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Official+Github+LynXzy+:vvv" alt="Lynn-Md" /> </a> </p>
 <p align="center">
+
+SUBSCRIBE
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ)
